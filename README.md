@@ -4,15 +4,14 @@ Apaixonado por tecnologia, com foco em Analise de Dados e Desenvolvimento de Sis
 
 ---
 ## 🎓 Formação
-- **Docência em Ciência e Tecnologia da Informação** – Pós-Graduação - Instituto Brasileiro de Formação, Treinamento e Capacitação Continuada - IBF – 06/2018 - 02/2019
+- **Analista de Dados** – Curso Livre – Escola Britânica de Artes Criativas & Tecnologia - **EBAC** – 11/2022 - 10/2023
+- **Docência em Ciência e Tecnologia da Informação** – Pós-Graduação - Instituto Brasileiro de Formação, Treinamento e Capacitação Continuada - **IBF** – 06/2018 - 02/2019
 - **Tecnologia em Sistemas para Internet** – Tecnólogo - Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - **IFMT** – 01/2014 - 02/2017
 
 --- 
 ## 🌱 Estudando
 - **Ciência de Dados e Big Data Analytics** – Pós-Graduação – Faculdade Metropolitana do Estado de São Paulo - **FAMEESP** – 01/2023 até 01/2024
-- **Analista de Dados** – Curso Livre – Escola Britânica de Artes Criativas & Tecnologia - **EBAC** – 11/2022 até 11/2023
 - **Engenharia Civil** – Bacharelado – Universidade do Estado de Mato Grosso - **UNEMAT** – 08/2019 até 12/2025
-
 
 ---
 ## 📫Redes
