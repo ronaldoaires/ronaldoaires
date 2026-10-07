@@ -1,4 +1,4 @@
-# Hi, I'm Ronaldo Aires 👋
+# Hi, I'm Ronaldo Aires.
 
 **Software Developer** focused on building software solutions across **web development, data, automation and engineering technology**.
 
@@ -47,15 +47,15 @@ My main experience includes web applications with Laravel and PHP, data analysis
 
 ### Featured Projects
 
-🏗️ **Engineering & BIM**
+**Engineering & BIM**
 
 Developing software solutions that connect engineering workflows with BIM, including research and development involving Revit, Eberick and structural reinforcement automation.
 
-💻 **Web Applications**
+**Web Applications**
 
 Building modern web applications using Laravel, PHP, Livewire, Filament, JavaScript and MySQL.
 
-📊 **Data & Python**
+**Data & Python**
 
 Developing data-oriented solutions using Python, with experience in data analysis, data science and automation.
 
