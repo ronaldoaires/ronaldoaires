@@ -12,6 +12,7 @@ My main experience includes web applications with Laravel and PHP, data analysis
 * Python
 * Java
 * JavaScript
+* Dart
 
 **Web Development**
 
@@ -21,6 +22,7 @@ My main experience includes web applications with Laravel and PHP, data analysis
 * Blade
 * Tailwind CSS
 * MySQL
+* Flutter
 
 **Data & Automation**
 
